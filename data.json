@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "title": "TypeScript入門",
+      "price": 2948,
+      "publisher": "技術評論社"
+    },
+    {
+      "title": "JavaScript中級",
+      "price": 5000,
+      "publisher": "Hayashi Books"
+    }
+  ]
+}
