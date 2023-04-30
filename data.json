@@ -9,6 +9,11 @@
       "title": "JavaScript中級",
       "price": 5000,
       "publisher": "Hayashi Books"
+    },
+    {
+      "title": "Ellana",
+      "price": 10000000,
+      "publisher": "Lea Books"
     }
   ]
 }
